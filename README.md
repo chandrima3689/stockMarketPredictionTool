@@ -10,7 +10,7 @@ This is an Excel based automated tool developed by me which extensively uses D3.
 	b) Click on "Internet Information Services (IIS) Manager"								
 	c) Click on the arrow besides the system user name under "Connections" to expand the list								
 	d) Right-click on "Sites" and click on "Add Web Site"								
-	e) Put a Site Name of your choice and set the Physical path to the location of the "DissertationII" folder (You would have already extracted, unzipped and saved the DissertationII folder in your local drive)								
+	e) Put a Site Name of your choice and set the Physical path to the location of the "Stock Market Prediction Application" folder (You would have already extracted, unzipped and saved the Stock Market Prediction Application folder in your local drive)								
 	f) Click on "Pass through Authentication"								
 	g) Click on "Specific User:"								
 	h) Click on "Set"								
@@ -20,7 +20,7 @@ This is an Excel based automated tool developed by me which extensively uses D3.
 	l) Click on "Test Settings" and ensure the connection is successful before proceeding								
 	m) Assign Port number as "81" and click on OK															
 	n) Now go to your browser (preferably Chrome) and type "localhost:81" in the address bar								
-	o) Ensure you do not get any error message & all sub-folders in the DissertationII folder are listed on the page								
+	o) Ensure you do not get any error message & all sub-folders in the Stock Market Prediction Application folder are listed on the page								
 
 2	Installing R for Windows 3.4.3:								
 	a) Download the setup of "R for Windows 3.4.3" from the following link: https://cran.r-project.org/bin/windows/base/old/3.4.3/				
